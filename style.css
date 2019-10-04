@@ -1,0 +1,44 @@
+.body {
+    background-image: url(https://i.pinimg.com/474x/85/70/f6/8570f6339d3189c96e340d47a581d3b8.jpg)
+}
+
+.header {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    background: white;
+    padding: 20px;
+    max-width: 960px;
+}
+
+.title {
+    box-sizing: border-box;
+    position: relative;
+    font: 20px red;
+    border: solid black;
+    flex: 3;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    flex: 1; 
+}
+
+.link {
+    color: grey;
+     
+}
+
+.content {
+    background: grey;
+    max-width: 960px;
+}
+
+.about-me {
+
+}
+.container {
+    max-width: 960px;
+    
+}
